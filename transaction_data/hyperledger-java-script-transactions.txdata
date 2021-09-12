@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "hyperledgerJavaScriptExists",
+        "transactionLabel": "A test hyperledgerJavaScriptExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createHyperledgerJavaScript",
+        "transactionLabel": "A test createHyperledgerJavaScript transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readHyperledgerJavaScript",
+        "transactionLabel": "A test readHyperledgerJavaScript transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateHyperledgerJavaScript",
+        "transactionLabel": "A test updateHyperledgerJavaScript transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteHyperledgerJavaScript",
+        "transactionLabel": "A test deleteHyperledgerJavaScript transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
